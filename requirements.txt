@@ -1,4 +1,8 @@
+langchain
 python-dotenv
 duckduckgo-search
 langchain-community
 ipykernel
+langchain-groq
+langchain-community
+langchain-core
