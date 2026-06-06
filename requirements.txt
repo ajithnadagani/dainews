@@ -1,0 +1,4 @@
+python-dotenv
+duckduckgo-search
+langchain-community
+ipykernel
